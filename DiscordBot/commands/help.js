@@ -23,6 +23,7 @@ module.exports = {
             {name: 'avatar', value:'check for your profile picture'},
             {name: 'song', value:'get a list for song command'},
             {name: 'mcserver <ip> <port>', value:'check the server detail'},
+            {name: 'translate <language> <name>', value:'translate your things into the language you want'},
             {name: 'tictactoe <ping someone>', value:'play tictactoe with the person you ping'},
             {name: 'urban <name>', value:'check the detail you want from urban dictionary'},
             {name: 'avatar <ping someone or more than 2>', value:'check for the person who you ping avatar'},
