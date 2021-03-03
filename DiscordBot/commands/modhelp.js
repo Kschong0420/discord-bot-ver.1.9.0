@@ -10,6 +10,7 @@ module.exports = {
         .setTitle('Vanilla Command List')
         .setDescription("Type v <command> to use me!")
         .addFields(
+            {name: 'nuke', value:'nuke the channel and renew it'},
             {name: 'purge <2 ~ 100>', value:'clear the amount of message'},
             {name: 'v hangman <#channel> <word>', value:'open a new hangman game'},
         )
